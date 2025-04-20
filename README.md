@@ -11,7 +11,7 @@ The goal is to provide clear, well-documented implementations that help understa
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/From-Scratch-ML-Implementations.git
-cd CustomNet
+cd notebooks
 ```
 
 2. Create and activate virtual environment:
